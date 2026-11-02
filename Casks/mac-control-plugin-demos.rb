@@ -1,6 +1,6 @@
 cask "mac-control-plugin-demos" do
-  version "1.2.0"
-  sha256 "ce905b507ef5bf55cf9512ffdb76ba56562d023cb2ff11b69674fb74e06bd71d"
+  version "1.2.1"
+  sha256 "ed76358f499b28d44a25c8aee2708a69c803464ec5806aa63b0bcd3f3a69a0ea"
 
   url "https://github.com/LaButteRonde/homebrew-mac-control/releases/download/demos-#{version}/demos-#{version}.zip"
   name "Démos"
