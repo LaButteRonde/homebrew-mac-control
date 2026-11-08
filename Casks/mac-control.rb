@@ -1,6 +1,6 @@
 cask "mac-control" do
-  version "1.4.0"
-  sha256 "a33655ca9e8418051fa23e603abc81083840491d7cebb74f5ebb5a4419f55273"
+  version "1.4.1"
+  sha256 "8681c74535cb9078df53f3ae929b04f85d90a968f3333a9d43535fc59a089396"
 
   url "https://github.com/LaButteRonde/homebrew-mac-control/releases/download/v#{version}/MacControl-darwin-arm64-#{version}.zip"
   name "Mac Control"
