@@ -1,6 +1,6 @@
 cask "mac-control-plugin-ssh" do
-  version "0.2.0"
-  sha256 "87e9e3da5f1f5bb418c10a6b591e300b6de4046b1289bdade0a1d71679366259"
+  version "0.3.0"
+  sha256 "5abf9371d7a3f50cea724f29e01a279e095a9936c1d6d58563b044ba1658f3f8"
 
   url "https://github.com/LaButteRonde/homebrew-mac-control/releases/download/ssh-#{version}/ssh-#{version}.zip"
   name "SSH"
