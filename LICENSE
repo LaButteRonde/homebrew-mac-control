@@ -1,0 +1,57 @@
+Licence de Mac Control
+
+Copyright (c) 2026 Yaya Dev. Tous droits réservés.
+
+1. Ce qui appartient à Yaya Dev
+
+Mac Control appartient entièrement et exclusivement à Yaya Dev : le code source, les applications compilées, le
+plugin « Mac » et le plugin d'exemple « Compteur » livrés avec lui, la bibliothèque MacControlKit, le contrat des
+plugins (sa documentation et ses schémas), la documentation, le style et les éléments visuels, ainsi que le nom
+« Mac Control ».
+
+Aucun droit n'est cédé sur ces éléments en dehors de ceux que la présente licence accorde expressément.
+
+2. Utiliser Mac Control
+
+Toute personne peut installer et utiliser l'application Mac Control distribuée par Yaya Dev, gratuitement, pour son
+propre usage.
+
+Sauf accord écrit de Yaya Dev, il est interdit de copier, modifier, adapter, traduire, décompiler ou désassembler
+Mac Control, d'en créer une œuvre dérivée, de le redistribuer, de le vendre, de le louer ou de le publier, en tout
+ou en partie.
+
+3. Les plugins appartiennent à leur créateur
+
+Un plugin développé par un tiers pour fonctionner avec Mac Control appartient à son créateur, et à lui seul. Yaya
+Dev ne revendique aucun droit sur ce plugin, son code, son contenu ou ses données. Son créateur choisit librement sa
+licence, sa distribution et son prix.
+
+Pour permettre ce développement, Yaya Dev accorde à toute personne le droit, gratuit, non exclusif et mondial :
+
+  a) de lire et d'utiliser le contrat des plugins (sa documentation et ses schémas) pour écrire des plugins qui
+     fonctionnent avec Mac Control ;
+  b) d'intégrer la bibliothèque MacControlKit, sans la modifier, dans un plugin destiné à Mac Control, et de
+     distribuer ce plugin avec elle. Ce droit ne couvre pas l'usage de MacControlKit hors d'un plugin pour Mac
+     Control. MacControlKit reste la propriété de Yaya Dev.
+
+Yaya Dev peut proposer une place de marché pour vendre ou distribuer des plugins pour Mac Control. Un créateur qui y
+propose son plugin le fait selon les conditions propres à cette place de marché, qu'il accepte au moment du dépôt :
+elles peuvent notamment prévoir une commission de Yaya Dev sur chaque vente réalisée par son intermédiaire. Le
+passage par cette place de marché reste un choix du créateur ; il garde la propriété de son plugin.
+
+Le plugin « Mac » et le plugin d'exemple « Compteur », développés par Yaya Dev et livrés avec Mac Control,
+appartiennent à Yaya Dev (article 1). Le plugin d'exemple peut servir de modèle pour écrire un plugin.
+
+4. Ce qui n'est pas à Yaya Dev
+
+Les polices B612 et B612 Mono (Support/Fonts) sont l'œuvre de The B612 Project Authors. Elles sont distribuées sous
+la SIL Open Font License 1.1, dont le texte est joint (Support/Fonts/OFL.txt). Cette licence ne les couvre pas.
+
+5. Garantie
+
+Mac Control est fourni « tel quel », sans aucune garantie. Dans les limites permises par la loi, Yaya Dev ne
+saurait être tenu responsable des dommages liés à son utilisation ou à celle d'un plugin.
+
+6. Droit applicable
+
+La présente licence est soumise au droit français.
