@@ -7,7 +7,7 @@ fort, le voyant.
 
 Ce que ce document fixe s'applique à la régie (la fenêtre, le panneau, les Réglages) et à tout ce qu'elle dessine
 pour les plugins. Un plugin ne choisit ni police ni couleur : il choisit un rôle (§ 7 bis du
-[contrat](contrat/1.3.md)), et Mac Control le dessine ainsi.
+[contrat](contrat/1.4.md)), et Mac Control le dessine ainsi.
 
 | Clair | Sombre |
 |---|---|
@@ -123,6 +123,10 @@ prennent la couleur d'accent.)
 
 Le voyant en tête, en petit ; puis les contrôles du plugin. Le nom du plugin est en tête de sa section : le plugin
 ne le répète pas dans son arbre.
+
+Le panneau **ne défile jamais** : il ne montre que les plugins en favori (l'étoile des Réglages, en couleur d'accent,
+jamais ambre), chacun dans sa place (10 lignes, 12 éléments : contrat 1.4, § 5 bis). Une section qui ne tient plus
+dans l'écran s'affiche repliée : son titre et une ligne qui renvoie à « Ouvrir ».
 
 ## 7. Refaire les captures
 
